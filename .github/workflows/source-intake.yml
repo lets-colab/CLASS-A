@@ -1,0 +1,32 @@
+name: Validate imported Sites source (does not deploy)
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'site/**'
+      - 'scripts/import_gate.py'
+      - 'tests/test_import_gate.py'
+      - '.github/workflows/source-intake.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  source-intake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Unit tests for fail-closed intake gate
+        run: python -m unittest discover -s tests -v
+      - name: Check staged site only when original source is present
+        shell: bash
+        run: |
+          if [ -d site ]; then
+            python scripts/import_gate.py --root . --json
+          else
+            echo '::notice title=Source not imported::CI infrastructure passed; actual ChatGPT Sites source, fidelity and deployment remain UNVERIFIED.'
+          fi
