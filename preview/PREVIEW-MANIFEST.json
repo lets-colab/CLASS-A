@@ -3,7 +3,7 @@
   "live_site": "https://erfanuddin.lastbenchbd.com/",
   "base_path": "/CLASS-A/preview/",
   "capture_captured_at": "2026-11-09T01:01:03Z",
-  "voice_answers": 20,
+  "voice_answers": 0,
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "ai-worker.js": "aca71cb3532e2392e4b54be6450f1f47048b6e8a0fb7a1c561c5fcef898bee20",
@@ -38,24 +38,9 @@
     "proof.html": "3f735c3bcbe55d304e431c81799303b52aa6cdf7f674c9c11e6fa17ce0b4b28b",
     "proof.js": "dce5e4d46dbda6e89b7e7b1c8a00391420a8843646fde5025afd5e87ca0d36bb",
     "styles.css": "f6ac8b0e709209030300cafc13b14879aad45faa021da26ad9380857b5fdf2df",
-    "voice/06e325fad4b2474f.mp3": "5e0349ba850916688f145f3ff8922e82ea16433937f9315d58f73ef1cb3dd63e",
-    "voice/1dbdcfed03a5c72a.mp3": "6e573af07c3680464d59781dc4dba516b541c5401db676e5ca5f1ee1ee9e19f2",
-    "voice/2619e1c30a8b9f26.mp3": "e84136a28e5296d24cdc8c1ae5557fd6b107270ece5f4b0d05b4d2dc3faa02b8",
-    "voice/40e86c123d32353d.mp3": "63541f00a3f930e9ed0a934d46f8633245e95f88408a83a2eb1c4d717a7f1ed3",
-    "voice/44d14327fce077a0.mp3": "8ef539c5479719f4f28903ffe6de7e91cabd3b1575c3db46039f00d823e83ae3",
-    "voice/67fde677d619eee6.mp3": "50d0680b6a68acbe3aa7227200022100d4c21e2823a56b8550ee060efa33443d",
-    "voice/6acc125763a1e78d.mp3": "314c9a9ffb7bd3330cdae84be4ab07ccb8c1150bd0bbed2581f0f28d388a415d",
-    "voice/76ccaf74d9037fce.mp3": "012148a2a12ad525bb6a8d0456357a39215cc60111fbae3f5e590b9f330254f6",
-    "voice/79b806f0e4789fcb.mp3": "e0a6a79ef97344d9cc1c02d135b442616d06e109660f03294514106bec7934a3",
-    "voice/8a91d12a7db8af72.mp3": "d051046a650ff0bab23883a48eaeab7ca33e9a8f7137f54562e5b0a24dff26a2",
-    "voice/9177d68349c0fbd3.mp3": "cfb5637e3a66218d401c1f0b74cc8c89bed48a4c68e206d8ce1490253ac38efb",
-    "voice/b3158446f594360a.mp3": "48eaf5b1501a4d3e8af658c32cfcc9d3e7b3cfe733d00db1ae27f36ec276a256",
-    "voice/b43d937fca19c14c.mp3": "f9951da4759ac617fba03376932f034acc735b04441df99c9bd9f1fba05def7d",
-    "voice/b6fc96df1db2c4db.mp3": "567eb59280fb52fa8bcf012232ccc27b5e558a232d66f378b3b305554be85d51",
-    "voice/d484ed0da469c98e.mp3": "f9a9cd617b8417a88931cd4937a2d67cfd7ee9a012a519d72db6674c57f573a4",
     "voice/drx-likeness.webp": "d75a450668e802e7e031d3a17f72d2035dff9e7ba8827c4c6e0d00708733f331",
-    "voice/voice-manifest.json": "f1e65d7f8e6e3b7417bfe53edd0eaabb77d2b49dba09957cbbd745d14e7ec5ef",
+    "voice/voice-manifest.json": "7ba360d6e63d459da4baaf1c061015098c3000be64f6c996ac39a6e5c7f7c016",
     "voice.css": "6085bedac922e4c3962b43b3bc2efd7ef3b96b4b208880abf3257139242e0ee5",
-    "voice.js": "4f0a7bd036c732918b6f37db30a8efb52e771b852ef7d077de8437a906fe27e0"
+    "voice.js": "5f2309ce0e91309317854c232b70c552d2b004db5f483244612641a07f4f78a5"
   }
 }

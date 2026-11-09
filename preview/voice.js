@@ -69,8 +69,8 @@ panel.innerHTML = `
     <summary>Conversation notes · this tab only (<span id="voice-note-count">0</span>)</summary>
     <ol id="voice-notes"></ol>
   </details>
-  <p class="voice-brief">AI-generated voice and likeness of Erfan. Nothing is recorded or stored.</p>
-  <details class="voice-more"><summary>How voice works</summary><p class="voice-consent" id="voice-consent">Turn-based voice: tap, ask one question, then hear the answer. Your browser converts speech to text (in Chrome, Google's speech service). This site does not record or store audio, transcripts or notes. Replies play an AI-generated version of Erfan's voice, made with his consent from his own recordings and watermarked as synthetic; if that audio is unavailable, your device voice is used. The hologram is Erfan's Dr.X portrait; its mouth follows the loudness of the reply, not exact lip-sync. Answers are in English.</p></details>`;
+  <p class="voice-brief">AI-generated voice and likeness. Nothing is recorded or stored.</p>
+  <details class="voice-more"><summary>How voice works</summary><p class="voice-consent" id="voice-consent">Turn-based voice: tap, ask one question, then hear the answer. Your browser converts speech to text (in Chrome, Google's speech service). This site does not record or store audio, transcripts or notes. Replies are read by an AI-generated voice that is not a recording of Erfan, or by your device voice if that audio is unavailable. The hologram is Erfan's Dr.X portrait; its mouth follows the loudness of the reply, not exact lip-sync. Answers are in English.</p></details>`;
 
 const dialog = $('#chat-dialog');
 const anchor = $('#chat-dialog .conversation-controls');
