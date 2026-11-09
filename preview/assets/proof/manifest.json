@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.0",
+  "recorded_at": "2026-11-01T08:10:57.763824+00:00",
+  "authoring": "Founder-directed work, developed with AI assistance",
+  "test_report": {
+    "recorded_at": "2026-11-01T08:10:57.763824+00:00",
+    "display_date": "1 November 2026",
+    "command": "node --test --test-reporter=tap tests/profile.test.mjs",
+    "exit_code": 0,
+    "tests_passed": 7,
+    "tests_failed": 0,
+    "scope": "Source routing, unknown/private boundaries, curated model selection, public-proof claims, curriculum design semantics and actual second-brain connection boundaries",
+    "independent_audit": false
+  },
+  "baseline_published_release": {
+    "source_commit": "8923b3dcf5a28d32843c3c15a4b952a244070508",
+    "deployment_observed": "2026-10-30",
+    "scope": "Original interactive profile and source-bound AI were observed on the published site before this proof page was added"
+  },
+  "cases": [
+    {
+      "id": "profile-case",
+      "kind": "PUBLISHED_PROFILE_PROJECT"
+    },
+    {
+      "id": "ai-case",
+      "kind": "COMPONENT_OF_PROFILE_PROJECT"
+    },
+    {
+      "id": "curriculum-case",
+      "kind": "DOCUMENTED_CURRICULUM_DESIGN",
+      "source_document_date": "2026-10-22",
+      "learner_outcomes": "NOT_ESTABLISHED"
+    }
+  ],
+  "limits": [
+    "Self-recorded implementation evidence; not independent business-impact certification",
+    "No fabricated campaign, client, revenue or learner results",
+    "Read-aloud remains dependent on visitor browser support",
+    "Artistic cut-out avatar with CSS spatial motion, not a volumetric face scan",
+    "The public profile guide is not connected to the actual private Dr.X second brain"
+  ],
+  "artifacts": [
+    {
+      "public_path": "/app.js",
+      "sha256": "3b37b62bde90a12a5f4a8e455b330f3299fc5cd94826bef3734d8c9e264fd8d4",
+      "bytes": 17747
+    },
+    {
+      "public_path": "/ai-worker.js",
+      "sha256": "aca71cb3532e2392e4b54be6450f1f47048b6e8a0fb7a1c561c5fcef898bee20",
+      "bytes": 1801
+    },
+    {
+      "public_path": "/profile-logic.js",
+      "sha256": "5be79b1ff83cd17def76a0d3175b0cc6112b275562a9266b199c19ae43adbed1",
+      "bytes": 2972
+    },
+    {
+      "public_path": "/profile-data.json",
+      "sha256": "d7870833486f39a46d8e3e6ad5800477db8f9f3754f2446ec3cdf1a24338c42e",
+      "bytes": 22437
+    },
+    {
+      "public_path": "/index.html",
+      "sha256": "d5a21158879f5e58e610bdf40ffcf9fede962448c3add826e21a497d190c05b7",
+      "bytes": 11907
+    },
+    {
+      "public_path": "/styles.css",
+      "sha256": "f6ac8b0e709209030300cafc13b14879aad45faa021da26ad9380857b5fdf2df",
+      "bytes": 26574
+    },
+    {
+      "public_path": "/proof.html",
+      "sha256": "4ebf87a37ce49632ba96d2d16db53c2f4deef00e68f23a409e367b9b30a9ca3b",
+      "bytes": 8289
+    },
+    {
+      "public_path": "/proof.css",
+      "sha256": "2dcfa83616a3e4c7d8af91916de1f08d1b0a5b7adc996ba45c81ac8fd10d5770",
+      "bytes": 7464
+    },
+    {
+      "public_path": "/proof.js",
+      "sha256": "f0febb6038a994260d8df3139e662089c169347a554658ae5962da61dc426c6b",
+      "bytes": 1013
+    },
+    {
+      "public_path": "/assets/Erfan_Uddin_Profile_2026.pdf",
+      "sha256": "1b19f447ef6415305579105c2962ce5994e55f15a4ec68cb42fffddee2db8546",
+      "bytes": 2680772
+    },
+    {
+      "public_path": "/assets/proof/curriculum-outline.json",
+      "sha256": "618fb430dfa01d9fe2ca26754f0a6c1daa651715949c42d65df4e459b43aa193",
+      "bytes": 3276
+    },
+    {
+      "public_path": "/assets/proof/CLASS_Lambda_Curriculum_Outline.md",
+      "sha256": "6b30e2e1ce77538d176229063b47d6428216b7cb241c4416af44777ca1c2feb9",
+      "bytes": 1371
+    },
+    {
+      "public_path": "/assets/proof/profile-desktop.jpg",
+      "sha256": "be47ec3f9466262cebdaf439801c32d9a63ae167b7a54f527102bcb621a0b4ae",
+      "bytes": 109632
+    },
+    {
+      "public_path": "/assets/proof/portrait-provenance.json",
+      "sha256": "43fb9cadf28b70e0d07f097fb6cf0eb0dcddcf7d81db60df4afaaa6b266d3c6d",
+      "bytes": 1132
+    },
+    {
+      "public_path": "/assets/proof/motion-verification.json",
+      "sha256": "3316cb1c538fddaed56d5d4bb53925229bec2d52e0860eb1cd518574f7d74d3e",
+      "bytes": 689
+    },
+    {
+      "public_path": "/assets/proof/test-report.txt",
+      "sha256": "866c0faf0f9bc75be2191df9832188051632f254cc1fd0982e939b39973f97d6",
+      "bytes": 1634
+    },
+    {
+      "public_path": "/assets/proof/Erfan_Profile_Verification_Source.zip",
+      "sha256": "a88672b08d1394ebd4be2547bac86024cf06e1b3f2fe37fc06f020321dd1f1d3",
+      "bytes": 38842
+    }
+  ]
+}

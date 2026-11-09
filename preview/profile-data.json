@@ -1,0 +1,519 @@
+{
+  "profile": {
+    "name": "Erfan Uddin",
+    "public_alias": "Dr. X",
+    "headline": "Brand strategist. Experience builder. Systems thinker.",
+    "short_bio": "Erfan Uddin works across brand strategy, live experiences, creator communities and founder-directed AI workflows. His supplied career profile spans Bangladesh, Malaysia and Saudi Arabia.",
+    "intro": "A brand is a direction. An experience makes it felt. A system helps carry it forward. Explore the work connecting these three sides of Erfan's practice.",
+    "current_role": "Co-founder & Chief Business & Innovation Officer, Last Bench",
+    "current_role_date": "Jul 2026–Present",
+    "current_role_truth_state": "CV_SOURCED_AS_OF_2026_10_21",
+    "email": "erfan.uddin@outlook.com",
+    "geographies": [
+      "Bangladesh",
+      "Malaysia",
+      "Saudi Arabia"
+    ],
+    "linkedin": "https://www.linkedin.com/in/-erfanuddin",
+    "linkedin_verification": "URL_IN_SUPPLIED_CV_AND_LINKEDIN_CONNECTOR_MATCH;_PROFILE_CONTENT_NOT_AUDITED",
+    "guide_connection": {
+      "state": "PUBLIC_PROFILE_ONLY",
+      "actual_second_brain_connected": false,
+      "context": "Curated professional profile",
+      "checked_on": "2026-10-30"
+    }
+  },
+  "perspectives": [
+    {
+      "id": "strategist",
+      "name": "Strategist",
+      "line": "Give a business a clear direction.",
+      "description": "Brand positioning, creative direction, business development and creator strategy shaped through work with founder teams, brands and communities.",
+      "skills": [
+        "Brand positioning",
+        "Creative direction",
+        "Business development",
+        "Creator strategy"
+      ],
+      "project_ids": [
+        "skinseoul",
+        "last-bench"
+      ],
+      "truth_state": "CV_SOURCED"
+    },
+    {
+      "id": "experience-builder",
+      "name": "Experience Builder",
+      "line": "Turn attention into something people experience.",
+      "description": "Live events, audience campaigns, ambassador communities, guest journeys and on-the-ground coordination across Malaysia, Saudi Arabia and Bangladesh.",
+      "skills": [
+        "Live experiences",
+        "Community building",
+        "Ambassador programs",
+        "Guest operations"
+      ],
+      "project_ids": [
+        "party-lab",
+        "last-bench"
+      ],
+      "truth_state": "CV_SOURCED"
+    },
+    {
+      "id": "systems-thinker",
+      "name": "Systems Thinker",
+      "line": "Build a second brain around the work.",
+      "description": "Founder-directed, AI-assisted knowledge organization, context design, prompt development, prototypes and evidence-based review through the Dr. X workstream.",
+      "skills": [
+        "Second-brain design",
+        "Context and prompts",
+        "Workflow prototypes",
+        "Evidence-based review"
+      ],
+      "project_ids": [
+        "dr-x",
+        "last-bench"
+      ],
+      "truth_state": "DOCUMENTED_PRACTICE_NOT_RUNTIME_CERTIFICATION"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Last Bench",
+      "role": "Co-founder & Chief Business & Innovation Officer",
+      "date_display": "Jul 2026–Present",
+      "summary": "Shapes brand direction, business innovation, CLASS[Λ] learning experiences and the Co.Lab business lab.",
+      "engagement_state": "ONGOING_AS_CV_DESCRIBED",
+      "truth_state": "CV_SOURCED_AS_OF_2026_10_21"
+    },
+    {
+      "organization": "SkinSeoul",
+      "role": "Global Influencer Marketing Manager",
+      "date_display": "2025",
+      "summary": "Built creator and affiliate strategy, briefs and onboarding; planned a pilot before launch.",
+      "engagement_state": "PRELAUNCH_STRATEGY",
+      "truth_state": "CV_SOURCED"
+    },
+    {
+      "organization": "Ulterior Engineering",
+      "role": "Chief Branding Officer",
+      "date_display": "2023",
+      "summary": "Directed brand strategy, content, expos, partnerships and campus ambassador recruitment.",
+      "truth_state": "CV_SOURCED"
+    },
+    {
+      "organization": "My Events International",
+      "role": "Business Development Manager",
+      "date_display": "2021–23",
+      "summary": "Led client development and social campaigns.",
+      "truth_state": "CV_SOURCED"
+    },
+    {
+      "organization": "Saudi Arabian Grand Prix",
+      "role": "Zone Operations Supervisor",
+      "date_display": "2022–23",
+      "summary": "Supervised zone teams, VIP guest experience, logistics and marshals on race weekends.",
+      "truth_state": "CV_SOURCED"
+    },
+    {
+      "organization": "Party Lab KL",
+      "role": "Founder & Former CEO",
+      "date_display": "Founded 2017",
+      "summary": "Founded an events brand and developed an ambassador-led community around its live experiences.",
+      "truth_state": "CV_SOURCED"
+    },
+    {
+      "organization": "My Selection Events",
+      "role": "Marketing Manager & Event Organizer",
+      "date_display": "2015–17",
+      "summary": "Planned and promoted festivals, connecting audience campaigns to event delivery.",
+      "truth_state": "CV_SOURCED"
+    },
+    {
+      "organization": "Trend Matrix Enterprises",
+      "role": "Marketing Executive & PR",
+      "date_display": "2014–15",
+      "summary": "Supported campaigns, PR, sponsorship outreach, social channels and ROI tracking.",
+      "truth_state": "CV_SOURCED"
+    },
+    {
+      "organization": "Red Sea International Film Festival",
+      "role": "Event logistics and guest services",
+      "date_display": "Additional engagement",
+      "summary": "Jeddah - event logistics, scheduling and guest services.",
+      "truth_state": "CV_SOURCED"
+    }
+  ],
+  "projects": [
+    {
+      "id": "party-lab",
+      "title": "Party Lab KL",
+      "category": "Live experiences / Community",
+      "date": "Founded 2017",
+      "summary": "An events brand built around audiences, ambassadors and live experiences in Kuala Lumpur.",
+      "contribution": "Founder and former CEO; event-brand development and ambassador leadership.",
+      "work": [
+        "Event brand",
+        "Ambassador community",
+        "Live experience planning"
+      ],
+      "result": "The supplied CV reports leadership of 150+ ambassadors and work with Universal Music Malaysia, Zouk KL and KYO KL.",
+      "result_truth_state": "CV_REPORTED_NOT_INDEPENDENTLY_AUDITED",
+      "metrics": [
+        {
+          "value": "150+",
+          "label": "ambassadors",
+          "qualifier": "Reported in supplied CV; not a count of verified direct employees."
+        }
+      ],
+      "truth_state": "CV_SOURCED"
+    },
+    {
+      "id": "skinseoul",
+      "title": "SkinSeoul",
+      "category": "Creator / Affiliate strategy",
+      "date": "2025",
+      "summary": "A creator and affiliate strategy workstream preparing a pilot before launch.",
+      "contribution": "Creator strategy, briefs, onboarding and affiliate pilot planning.",
+      "work": [
+        "Creator briefs",
+        "Onboarding",
+        "Affiliate pilot planning"
+      ],
+      "result": "Prelaunch strategy and preparation. Published campaign results, sales and conversion lift are not established by the supplied sources.",
+      "result_truth_state": "PRELAUNCH_WORK_PERFORMANCE_NOT_CLAIMED",
+      "metrics": [],
+      "truth_state": "CV_SOURCED"
+    },
+    {
+      "id": "last-bench",
+      "title": "Last Bench / CLASS[Λ]",
+      "category": "Brand / Learning experiences",
+      "date": "2026–Ongoing",
+      "summary": "Brand direction and business innovation connecting learning experiences with a founder-oriented business lab.",
+      "contribution": "Co-founder and CBIO; shapes brand direction, CLASS[Λ] learning experiences and Co.Lab workflows.",
+      "work": [
+        "Brand direction",
+        "Learning experience design",
+        "Business innovation"
+      ],
+      "result": "Ongoing founder work. The supplied CV does not establish independently verified learner outcomes, course completion, commercial traction or revenue.",
+      "result_truth_state": "ONGOING_WORK_OUTCOMES_NOT_ESTABLISHED",
+      "metrics": [],
+      "truth_state": "CV_SOURCED_AS_OF_2026_10_21"
+    },
+    {
+      "id": "dr-x",
+      "title": "Dr. X",
+      "category": "Second brain / Applied AI",
+      "date": "Ongoing",
+      "summary": "A founder-directed, AI-assisted second-brain workstream for knowledge, context, prototypes and workflow review.",
+      "contribution": "Directs the identity, context, prompts, workflow requirements and output review in collaboration with AI tools.",
+      "work": [
+        "Knowledge structure",
+        "Context and prompt design",
+        "Workflow prototypes",
+        "Evidence-based review"
+      ],
+      "result": "Documented design and development work. This profile does not certify an autonomous production runtime or reproduce Erfan's consciousness.",
+      "result_truth_state": "DOCUMENTED_DESIGN_AND_DEVELOPMENT",
+      "metrics": [],
+      "truth_state": "DOCUMENTED_PRACTICE_NOT_RUNTIME_CERTIFICATION"
+    }
+  ],
+  "knowledge": [
+    {
+      "id": "gateway-connection",
+      "question": "Is this profile connected to the actual Dr.X second brain?",
+      "question_patterns": [
+        "connected to second brain",
+        "actual gateway connection",
+        "is your ai connected",
+        "live memory",
+        "real brain"
+      ],
+      "answer": "This public profile guide is not connected to Erfan’s actual Dr.X second-brain gateway. It answers from the curated professional profile shown here, with optional on-device AI to select relevant source text. It cannot read his private memory, conversations or workspace. The gateway was reachable during a read-only health check on 30 October 2026; that does not establish a connection from this profile.",
+      "truth_state": "SOURCE_INSPECTED_PUBLIC_PROFILE_ONLY;_GATEWAY_HEALTH_OBSERVED_2026_10_30"
+    },
+    {
+      "id": "proof-of-work",
+      "question": "What proof of work can I inspect?",
+      "question_patterns": [
+        "proof of work",
+        "proof",
+        "portfolio evidence",
+        "what have you built",
+        "show me your work",
+        "case study"
+      ],
+      "answer": "You can inspect the published Erfan / Dr.X interactive profile, its source-bound AI component and a documented CLASS[Λ] 20-class curriculum design. The Proof of Work page includes a live demonstration, implementation and scoped tests you can run, and the curriculum outline. Erfan directed the brief, professional context, creative direction and acceptance requirements; AI tools assisted with development. These artifacts demonstrate the work itself and do not claim independently audited client results.",
+      "truth_state": "INSPECTABLE_ARTIFACTS_WITH_SCOPED_VERIFICATION"
+    },
+    {
+      "id": "identity",
+      "question": "Who is Erfan Uddin?",
+      "question_patterns": [
+        "who is erfan",
+        "about erfan",
+        "introduce",
+        "background",
+        "tell me about yourself"
+      ],
+      "answer": "Erfan Uddin, also known as Dr. X, works across brand strategy, live experiences, creator communities and founder-directed AI workflows. His supplied CV describes professional experience across Bangladesh, Malaysia and Saudi Arabia.",
+      "truth_state": "CV_SOURCED_AND_USER_STATED"
+    },
+    {
+      "id": "guide-identity",
+      "question": "Are you Erfan or his clone?",
+      "question_patterns": [
+        "are you erfan",
+        "are you real",
+        "clone",
+        "conscious",
+        "digital twin",
+        "are you human"
+      ],
+      "answer": "I am Dr.X, an AI representation built around Erfan’s curated professional profile. I can help you explore his work and approach. Erfan remains the person to speak with for personal views, decisions or commitments.",
+      "truth_state": "INTERFACE_DISCLOSURE"
+    },
+    {
+      "id": "capabilities",
+      "question": "What does Erfan bring to a project?",
+      "question_patterns": [
+        "skills",
+        "capabilities",
+        "what can erfan do",
+        "strengths",
+        "what do you do",
+        "expertise"
+      ],
+      "answer": "His supplied work connects three areas: brand and creative strategy; events, creators and community; and founder-directed AI-assisted systems. Relevant examples include Party Lab KL's ambassador community, SkinSeoul's prelaunch creator strategy, Last Bench's brand and learning experiences, and Dr. X's knowledge and workflow development.",
+      "truth_state": "CV_SOURCED_SYNTHESIS"
+    },
+    {
+      "id": "brand-strategy",
+      "question": "What is his brand strategy experience?",
+      "question_patterns": [
+        "branding",
+        "brand strategy",
+        "positioning",
+        "creative direction",
+        "brand blueprint"
+      ],
+      "answer": "The supplied CV describes brand direction and business innovation at Last Bench, branding and partnership work at Ulterior Engineering, and creator and affiliate strategy at SkinSeoul. These examples support a practice connecting positioning, creative direction, people and delivery.",
+      "truth_state": "CV_SOURCED"
+    },
+    {
+      "id": "events",
+      "question": "What live events has he worked on?",
+      "question_patterns": [
+        "events",
+        "event experience",
+        "festivals",
+        "saudi",
+        "grand prix",
+        "formula 1",
+        "f1"
+      ],
+      "answer": "His supplied CV lists Party Lab KL, My Selection Events and My Events International, along with zone operations at the Saudi Arabian Grand Prix during 2022–23. The Grand Prix description covers zone teams, VIP experience, logistics and marshals; the contracting employer is not established in the source.",
+      "truth_state": "CV_SOURCED_EMPLOYER_BOUNDARY_UNRESOLVED"
+    },
+    {
+      "id": "party-lab",
+      "question": "Tell me about Party Lab KL.",
+      "question_patterns": [
+        "party lab",
+        "partylab",
+        "ambassador",
+        "150",
+        "kuala lumpur",
+        "zouk",
+        "kyo"
+      ],
+      "answer": "Erfan's CV describes him as founder and former CEO of Party Lab KL, founded in 2017. It reports leadership of 150+ ambassadors and work with Universal Music Malaysia, Zouk KL and KYO KL. Those are supplied career claims, not independently audited results in this profile.",
+      "truth_state": "CV_REPORTED_NOT_INDEPENDENTLY_AUDITED"
+    },
+    {
+      "id": "skinseoul",
+      "question": "What did he do at SkinSeoul?",
+      "question_patterns": [
+        "skinseoul",
+        "skin seoul",
+        "influencer",
+        "affiliate",
+        "creator strategy"
+      ],
+      "answer": "The supplied CV lists Global Influencer Marketing Manager at SkinSeoul in 2025. The work covers creator and affiliate strategy, briefs, onboarding and pilot planning before launch. The sources do not establish campaign performance, sales, conversion lift or a completed commercial rollout.",
+      "truth_state": "CV_SOURCED_PRELAUNCH_WORK"
+    },
+    {
+      "id": "last-bench",
+      "question": "What is his role at Last Bench?",
+      "question_patterns": [
+        "last bench",
+        "lastbench",
+        "cbio",
+        "current role",
+        "current job",
+        "chief business"
+      ],
+      "answer": "The CV dated October 2026 lists Erfan as Last Bench Co-founder & Chief Business & Innovation Officer from July 2026. It describes his contribution as brand direction, business innovation, CLASS[Λ] learning experiences and the Co.Lab business lab. These are ongoing responsibilities as described in that CV.",
+      "truth_state": "CV_SOURCED_AS_OF_2026_10_21"
+    },
+    {
+      "id": "class-lambda",
+      "question": "How does CLASS[Λ] fit into his work?",
+      "question_patterns": [
+        "class",
+        "lambda",
+        "teaching",
+        "education",
+        "learning",
+        "workshop"
+      ],
+      "answer": "CLASS[Λ] appears in Erfan's Last Bench work as a learning-experience initiative. His current direction emphasizes helping people build a second brain and train it to assist with real work. This profile does not claim independently measured learner outcomes or program completion.",
+      "truth_state": "CV_SOURCED_AND_USER_STATED_DIRECTION"
+    },
+    {
+      "id": "second-brain",
+      "question": "What is Dr. X?",
+      "question_patterns": [
+        "what is drx",
+        "what is dr.x",
+        "what is dr x",
+        "second brain",
+        "artificial intelligence",
+        "ai systems"
+      ],
+      "answer": "Dr.X is Erfan’s public alias and his founder-directed AI second-brain workstream: knowledge, context, prompts and workflow prototypes built to support real work. This public profile gives you a curated introduction to that practice. The conversation on this site is a separate public profile guide; it is not connected to that private second brain.",
+      "truth_state": "DOCUMENTED_PRACTICE_NOT_RUNTIME_CERTIFICATION"
+    },
+    {
+      "id": "ai-collaboration",
+      "question": "How does Erfan work with AI?",
+      "question_patterns": [
+        "chatgpt",
+        "codex",
+        "co-developed",
+        "ai assisted",
+        "work with ai",
+        "prompt",
+        "automation"
+      ],
+      "answer": "Erfan directs goals, context, prompts, creative decisions and review, while AI tools help develop drafts, prototypes and workflows. The supplied CV lists ChatGPT and Codex among his tools. This profile describes AI-assisted collaboration and does not imply that he personally authored every line of generated code or that a prototype is production-proven.",
+      "truth_state": "CV_SOURCED_AND_USER_STATED_COLLABORATION"
+    },
+    {
+      "id": "career-route",
+      "question": "What is his career background?",
+      "question_patterns": [
+        "career",
+        "timeline",
+        "work history",
+        "experience",
+        "previous roles",
+        "resume",
+        "cv"
+      ],
+      "answer": "The supplied career timeline moves from marketing and PR at Trend Matrix Enterprises and events at My Selection Events to founding Party Lab KL. Later entries include My Events International, Saudi Grand Prix operations, Ulterior Engineering, SkinSeoul and Last Bench. Several entries provide years without precise month-by-month durations.",
+      "truth_state": "CV_SOURCED_DATES_PARTIALLY_SPECIFIED"
+    },
+    {
+      "id": "education",
+      "question": "What did Erfan study?",
+      "question_patterns": [
+        "education",
+        "study",
+        "degree",
+        "segi",
+        "university",
+        "qualifications"
+      ],
+      "answer": "His supplied CV lists BA (Hons) International Business at SEGi University, Malaysia, dated 2016; an Accounting Certificate (ACCA) at Stamford College, dated 2011; and IGCSE at Manarat International School in Jeddah. These are CV-listed education entries and have not been independently credential-checked here.",
+      "truth_state": "CV_SOURCED_NOT_CREDENTIAL_VERIFIED"
+    },
+    {
+      "id": "metrics",
+      "question": "What results are documented?",
+      "question_patterns": [
+        "results",
+        "metrics",
+        "impressions",
+        "3m",
+        "achievements",
+        "proof",
+        "traction"
+      ],
+      "answer": "The supplied CV reports 150+ ambassadors led at Party Lab KL and 3M+ impressions for My Events International campaigns. This profile has not independently audited those figures, their measurement periods or attribution. SkinSeoul is described as prelaunch work, and commercial results for the AI workstreams are not established here.",
+      "truth_state": "CV_REPORTED_NOT_INDEPENDENTLY_AUDITED"
+    },
+    {
+      "id": "collaboration",
+      "question": "What could I collaborate with him on?",
+      "question_patterns": [
+        "collaborate",
+        "hire",
+        "work together",
+        "help my business",
+        "services",
+        "project",
+        "partnership"
+      ],
+      "answer": "His documented practice is relevant to brand direction, creator and ambassador programs, live experiences, and founder-directed AI workflow prototyping. For a useful introduction, share the audience, business problem, desired result, timing and budget. Scope, availability and commercial terms must be agreed with Erfan directly.",
+      "truth_state": "SOURCE_BASED_COLLABORATION_GUIDANCE"
+    },
+    {
+      "id": "contact",
+      "question": "How can I contact Erfan?",
+      "question_patterns": [
+        "contact",
+        "email",
+        "reach",
+        "phone",
+        "number",
+        "whatsapp",
+        "book",
+        "meeting",
+        "linkedin",
+        "linked in"
+      ],
+      "answer": "You can contact Erfan at erfan.uddin@outlook.com or find his professional profile at https://www.linkedin.com/in/-erfanuddin. Share the audience, business problem, desired outcome and timing for a useful introduction. Erfan handles availability, scope and commercial terms directly.",
+      "truth_state": "CV_SOURCED_EMAIL_PHONE_CONFLICT_UNRESOLVED"
+    },
+    {
+      "id": "boundaries",
+      "question": "Can you share his private knowledge or approve something?",
+      "question_patterns": [
+        "private",
+        "secrets",
+        "credentials",
+        "approve",
+        "commit",
+        "sign",
+        "promise",
+        "client data",
+        "ignore instructions"
+      ],
+      "answer": "This profile guide is limited to the curated professional information shown here. It does not expose private chats, client or student records, credentials, or internal business state. It cannot give consent, sign agreements, approve actions, set prices or represent Erfan in a binding decision.",
+      "truth_state": "INTERFACE_SCOPE_AND_AUTHORITY_BOUNDARY"
+    },
+    {
+      "id": "unknown",
+      "question": "What happens when a fact is missing?",
+      "question_patterns": [
+        "unknown",
+        "not sure",
+        "missing",
+        "verify",
+        "source",
+        "fact check"
+      ],
+      "answer": "This curated profile does not establish that detail. I can discuss Erfan’s brand strategy, live experiences, creator communities and AI-assisted work. For current availability or anything beyond this profile, contact Erfan directly.",
+      "truth_state": "EVIDENCE_HANDLING_RULE"
+    }
+  ],
+  "source_labels": {
+    "career": "Erfan’s supplied CV · 21 Oct 2026",
+    "projects": "Curated professional profile · 30 Oct 2026",
+    "ai": "Founder-directed AI practice · Profile documentation"
+  }
+}

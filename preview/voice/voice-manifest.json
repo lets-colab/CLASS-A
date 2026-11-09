@@ -1,0 +1,433 @@
+{
+  "model": "ResembleAI/chatterbox (MIT) 0.1.7, Perth watermark",
+  "reference": "5 owner-supplied clips, 43.2 s",
+  "gate": "faster-whisper base.en WER <= 0.12",
+  "answers": {
+    "b6fc96df1db2c4db3563aefa8dfe11d40257759bcff1a20d92c572c38a6ed024": {
+      "id": "gateway-connection",
+      "file": "b6fc96df1db2c4db.mp3",
+      "seconds": 27.65,
+      "worst_chunk_wer": 0.065,
+      "passed_gate": true,
+      "chunks": [
+        {
+          "text": "This public profile guide is not connected to Erfan’s actual Dr.X second-brain gateway. It answers from the curated professional profile shown here, with optional on-device AI to select relevant source text.",
+          "wer": 0.065,
+          "tries": 1,
+          "heard": "This public profile guide is not connected to Erfan's actual Dr. X second-brain gateway.  It answers from the curated professional profile shown here,  with optional on-device AI to select relevant source text."
+        },
+        {
+          "text": "It cannot read his private memory, conversations or workspace. The gateway was reachable during a read-only health check on 30 October 2026; that does not establish a connection from this profile.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "It cannot read his private memory, conversations, or workspace.  The gateway was reachable during a read-only health check on 30 October 2026 that does  not establish a connection from this profile."
+        }
+      ]
+    },
+    "76ccaf74d9037fce59e675a5673f47a25b370356fb8366f54f05d396b0541292": {
+      "id": "proof-of-work",
+      "file": "76ccaf74d9037fce.mp3",
+      "seconds": 35.51,
+      "worst_chunk_wer": 0.091,
+      "passed_gate": true,
+      "chunks": [
+        {
+          "text": "You can inspect the published Erfan, Doctor X interactive profile, its source-bound AI component and a documented Class A 20-class curriculum design.",
+          "wer": 0.091,
+          "tries": 1,
+          "heard": "You can inspect the published Erfan, Doctor X Interactive Profile, its source-bound AI component, and a documented Class A20-class curriculum design."
+        },
+        {
+          "text": "The Proof of Work page includes a live demonstration, implementation and scoped tests you can run, and the curriculum outline.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "The Proof of Work page includes a live demonstration, implementation, and scoped tests you can run, and the curriculum outline."
+        },
+        {
+          "text": "Erfan directed the brief, professional context, creative direction and acceptance requirements; AI tools assisted with development.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "Erfan directed the brief professional context, creative direction and acceptance requirements.  AI tools assisted with development."
+        },
+        {
+          "text": "These artifacts demonstrate the work itself and do not claim independently audited client results.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "These artifacts demonstrate the work itself and do not claim independently audited client results."
+        }
+      ]
+    },
+    "d484ed0da469c98eef82d7b6518a6bc505774aabc4e4456e5e84fd9061898b57": {
+      "id": "identity",
+      "file": "d484ed0da469c98e.mp3",
+      "seconds": 16.93,
+      "worst_chunk_wer": 0.0,
+      "passed_gate": true,
+      "chunks": [
+        {
+          "text": "Erfan Uddin, also known as Doctor X, works across brand strategy, live experiences, creator communities and founder-directed AI workflows.",
+          "wer": 0.0,
+          "tries": 2,
+          "heard": "Erfan Uddin, also known as Doctor X, works across brand strategy, live experiences, creator communities, and founder-directed AI workflows."
+        },
+        {
+          "text": "His supplied CV describes professional experience across Bangladesh, Malaysia and Saudi Arabia.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "His supplied CV describes professional experience across Bangladesh, Malaysia and Saudi Arabia."
+        }
+      ]
+    },
+    "6acc125763a1e78df293a378e9913169d9ec673ac317b63d0fc7bc75de9b484e": {
+      "id": "guide-identity",
+      "file": "6acc125763a1e78d.mp3",
+      "seconds": 14.64,
+      "worst_chunk_wer": 0.0,
+      "passed_gate": true,
+      "chunks": [
+        {
+          "text": "I am Doctor X, an AI representation built around Erfan’s curated professional profile. I can help you explore his work and approach. Erfan remains the person to speak with for personal views, decisions or commitments.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "I am Doctor X, an AI representation built around Erfan's curated professional profile. I can help you explore his work and approach. Erfan remains the person to speak with for personal views, decisions or commitments."
+        }
+      ]
+    },
+    "89a065cb1ae9b91086b3b4d27a9f3b4465ea439d5875b03d125a66f7302bb32b": {
+      "id": "capabilities",
+      "file": null,
+      "seconds": 26.53,
+      "worst_chunk_wer": 0.222,
+      "passed_gate": false,
+      "chunks": [
+        {
+          "text": "His supplied work connects three areas: brand and creative strategy; events, creators and community; and founder-directed AI-assisted systems.",
+          "wer": 0.222,
+          "tries": 1,
+          "heard": "His supplied work connects three areas, brand and creative strategy, events, creators and community, and founder directed AI assisted systems."
+        },
+        {
+          "text": "Relevant examples include Party Lab K L's ambassador community, SkinSeoul's prelaunch creator strategy, Last Bench's brand and learning experiences, and Doctor X's knowledge and workflow development.",
+          "wer": 0.115,
+          "tries": 2,
+          "heard": "Relevant examples include PartyLab, K L's, Ambassador Community, SkinSoul's pre-launch creator strategy,  Last Bench's brand and learning experiences, and Doctor X's Knowledge and Workflow Development."
+        }
+      ]
+    },
+    "1dbdcfed03a5c72a4923906bdc6bb93815fcd4d3f322b769a5f9efd145c3eac3": {
+      "id": "brand-strategy",
+      "file": "1dbdcfed03a5c72a.mp3",
+      "seconds": 18.17,
+      "worst_chunk_wer": 0.077,
+      "passed_gate": true,
+      "chunks": [
+        {
+          "text": "The supplied CV describes brand direction and business innovation at Last Bench, branding and partnership work at Ulterior Engineering, and creator and affiliate strategy at SkinSeoul.",
+          "wer": 0.077,
+          "tries": 1,
+          "heard": "The supplied CV describes brand direction and business innovation at Last Bench, branding and partnership work at Alteria Engineering and Creator and Affiliate Strategy at SkinSoul."
+        },
+        {
+          "text": "These examples support a practice connecting positioning, creative direction, people and delivery.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "These examples support a practice connecting, positioning, creative direction, people and delivery."
+        }
+      ]
+    },
+    "44d14327fce077a0b9ecbbd62d6f05262f6ad26c362257937de5516476e63018": {
+      "id": "events",
+      "file": "44d14327fce077a0.mp3",
+      "seconds": 21.73,
+      "worst_chunk_wer": 0.103,
+      "passed_gate": true,
+      "chunks": [
+        {
+          "text": "His supplied CV lists Party Lab K L, My Selection Events and My Events International, along with zone operations at the Saudi Arabian Grand Prix during 2022 to 23.",
+          "wer": 0.103,
+          "tries": 3,
+          "heard": "He supplied CV lists, PartyLab, K L, my selection events and my events international, along with zone operations at the Saudi Arabian Grand Prix during 2022 to 23."
+        },
+        {
+          "text": "The Grand Prix description covers zone teams, VIP experience, logistics and marshals; the contracting employer is not established in the source.",
+          "wer": 0.048,
+          "tries": 1,
+          "heard": "The Grand Prix destruction covers zone teams, VIP experience, logistics and marshals. The contracting employer is not established in the source."
+        }
+      ]
+    },
+    "8c16f064a08d6b242b320c5a6dc758a620963cd1b7244ca982fd6aba8879be48": {
+      "id": "party-lab",
+      "file": null,
+      "seconds": 21.49,
+      "worst_chunk_wer": 0.243,
+      "passed_gate": false,
+      "chunks": [
+        {
+          "text": "Erfan's CV describes him as founder and former CEO of Party Lab K L, founded in 2017. It reports leadership of 150 plus ambassadors and work with Universal Music Malaysia, Zouk K L and KYO K L.",
+          "wer": 0.243,
+          "tries": 1,
+          "heard": "Erfan's CV describes him as founder and former CEO of PartyLab KL, founded in 2017.  It reports leadership of 150 plus ambassadors and work with Universal Music Malaysia, Zuk KL  and KYO KL."
+        },
+        {
+          "text": "Those are supplied career claims, not independently audited results in this profile.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "Those are supplied career claims, not independently audited results in this profile."
+        }
+      ]
+    },
+    "9177d68349c0fbd33ab253f3cc1b8cae1e391f9be15b226662c9deb53235ed9e": {
+      "id": "skinseoul",
+      "file": "9177d68349c0fbd3.mp3",
+      "seconds": 20.37,
+      "worst_chunk_wer": 0.038,
+      "passed_gate": true,
+      "chunks": [
+        {
+          "text": "The supplied CV lists Global Influencer Marketing Manager at SkinSeoul in 2025. The work covers creator and affiliate strategy, briefs, onboarding and pilot planning before launch.",
+          "wer": 0.038,
+          "tries": 1,
+          "heard": "The supplied CV lists Global Influencer Marketing Manager at SkinSoul in 2025. The work covers creator and affiliate strategy, briefs, onboarding and pilot planning before launch."
+        },
+        {
+          "text": "The sources do not establish campaign performance, sales, conversion lift or a completed commercial rollout.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "The sources do not establish campaign performance, sales, conversion lift, or a completed commercial rollout."
+        }
+      ]
+    },
+    "06e325fad4b2474fc68362bb21a95ad542292e2a8a7799e98e9dad588f9ae814": {
+      "id": "last-bench",
+      "file": "06e325fad4b2474f.mp3",
+      "seconds": 26.97,
+      "worst_chunk_wer": 0.0,
+      "passed_gate": true,
+      "chunks": [
+        {
+          "text": "The CV dated October 2026 lists Erfan as Last Bench Co-founder and Chief Business and Innovation Officer from July 2026.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "The CV dated October 2026, lists Erfan as Last Bench Co-Founder and Chief Business and Innovation Officer from July 2026."
+        },
+        {
+          "text": "It describes his contribution as brand direction, business innovation, Class A learning experiences and the Co-Lab business lab. These are ongoing responsibilities as described in that CV.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "It describes his contribution as Brand Direction, Business Innovation, Class A, Learning Experiences and the Co-Lab Business Lab.  These are ongoing responsibilities as described in that CV."
+        }
+      ]
+    },
+    "2619e1c30a8b9f26e408faa72a6c8526d3a374854434984eade987558efcba2b": {
+      "id": "class-lambda",
+      "file": "2619e1c30a8b9f26.mp3",
+      "seconds": 19.89,
+      "worst_chunk_wer": 0.067,
+      "passed_gate": true,
+      "chunks": [
+        {
+          "text": "Class A appears in Erfan's Last Bench work as a learning-experience initiative. His current direction emphasizes helping people build a second brain and train it to assist with real work.",
+          "wer": 0.067,
+          "tries": 1,
+          "heard": "Class A appears in Erfan's Last Bench work as a learning experience initiative. His current direction emphasizes helping people build a second brain and train it to assist with real work."
+        },
+        {
+          "text": "This profile does not claim independently measured learner outcomes or program completion.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "This profile does not claim independently measured learner outcomes or program completion."
+        }
+      ]
+    },
+    "40e86c123d32353d26697d2c08f09b4111e0312442db1ccbe8b38551ec6501f4": {
+      "id": "second-brain",
+      "file": "40e86c123d32353d.mp3",
+      "seconds": 23.17,
+      "worst_chunk_wer": 0.087,
+      "passed_gate": true,
+      "chunks": [
+        {
+          "text": "Doctor X is Erfan’s public alias and his founder-directed AI second-brain workstream: knowledge, context, prompts and workflow prototypes built to support real work.",
+          "wer": 0.087,
+          "tries": 2,
+          "heard": "Doctor X is Erfan's public alias and his founder directed AI. Second-brain workstream, knowledge, context, prompts and workflow prototypes built to support real work."
+        },
+        {
+          "text": "This public profile gives you a curated introduction to that practice. The conversation on this site is a separate public profile guide; it is not connected to that private second brain.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "This public profile gives you a curated introduction to that practice. The conversation on this site is a separate public profile guide. It is not connected to that private second brain."
+        }
+      ]
+    },
+    "79b806f0e4789fcb543d6666f1fb8cff9e37dcb25a524a933e2c2db2f969c0ce": {
+      "id": "ai-collaboration",
+      "file": "79b806f0e4789fcb.mp3",
+      "seconds": 26.65,
+      "worst_chunk_wer": 0.107,
+      "passed_gate": true,
+      "chunks": [
+        {
+          "text": "Erfan directs goals, context, prompts, creative decisions and review, while AI tools help develop drafts, prototypes and workflows. The supplied CV lists ChatGPT and Codex among his tools.",
+          "wer": 0.107,
+          "tries": 2,
+          "heard": "Erfan directs goals, context, prompts, creative decisions and review, while AI tools help develop drafts, prototypes and workflows.  The supplied CV lists chat GPT and codecs among his tools."
+        },
+        {
+          "text": "This profile describes AI-assisted collaboration and does not imply that he personally authored every line of generated code or that a prototype is production-proven.",
+          "wer": 0.083,
+          "tries": 1,
+          "heard": "This profile describes AI assisted collaboration and does not imply that he personally authored every line of generated code or that a prototype is production-proven."
+        }
+      ]
+    },
+    "b05735ea6cf7da480a98fe221930e2e408d9402fba994d79b9fcee5cd3522f54": {
+      "id": "career-route",
+      "file": null,
+      "seconds": 24.09,
+      "worst_chunk_wer": 0.125,
+      "passed_gate": false,
+      "chunks": [
+        {
+          "text": "The supplied career timeline moves from marketing and PR at Trend Matrix Enterprises and events at My Selection Events to founding Party Lab K L.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "The supplied career timeline moves from marketing and PR at Trend Matrix Enterprises and events at My Selection Events to founding party lab K L."
+        },
+        {
+          "text": "Later entries include My Events International, Saudi Grand Prix operations, Ulterior Engineering, SkinSeoul and Last Bench. Several entries provide years without precise month-by-month durations.",
+          "wer": 0.125,
+          "tries": 3,
+          "heard": "Later entries include My Events International, Saudi Grand Prix Operations, Altaria Engineering,  Skin Soul and Last Bench. Several entries provide years without precise month-by-month  durations."
+        }
+      ]
+    },
+    "9bd4557c21411ce216f2ab53acd13ff782b612b0084f84f6c74fba3f7c466e52": {
+      "id": "education",
+      "file": null,
+      "seconds": 25.53,
+      "worst_chunk_wer": 0.167,
+      "passed_gate": false,
+      "chunks": [
+        {
+          "text": "His supplied CV lists BA (Hons) International Business at Segi University, Malaysia, dated 2016; an Accounting Certificate (ACCA) at Stamford College, dated 2011; and IGCSE at Manarat International School in Jeddah.",
+          "wer": 0.097,
+          "tries": 1,
+          "heard": "His supplied CV lists BA Hons, International Business at Segi University Malaysia, dated 2016,  an accounting certificate, ACCA at Stanford College, dated 2011, and IGCE at Manorat International School in Jeddah."
+        },
+        {
+          "text": "These are CV-listed education entries and have not been independently credential-checked here.",
+          "wer": 0.167,
+          "tries": 2,
+          "heard": "These are CV-listed education entries and have not been independently credentialed checked here."
+        }
+      ]
+    },
+    "8a91d12a7db8af726aced29c877e9d306bb5025857ef36926c23d8014e296e7f": {
+      "id": "metrics",
+      "file": "8a91d12a7db8af72.mp3",
+      "seconds": 25.09,
+      "worst_chunk_wer": 0.1,
+      "passed_gate": true,
+      "chunks": [
+        {
+          "text": "The supplied CV reports 150 plus ambassadors led at Party Lab K L and 3 million plus impressions for My Events International campaigns.",
+          "wer": 0.087,
+          "tries": 1,
+          "heard": "The supplied CV reports 150 plus ambassadors led at PartyLab K L and 3 million plus impressions  for my events international campaigns."
+        },
+        {
+          "text": "This profile has not independently audited those figures, their measurement periods or attribution. SkinSeoul is described as prelaunch work, and commercial results for the AI workstreams are not established here.",
+          "wer": 0.1,
+          "tries": 2,
+          "heard": "This profile has not independently audited those figures, their measurement periods or attribution.  SkinSol is described as pre-launch work, and commercial results for the AI work streams are not established here."
+        }
+      ]
+    },
+    "b43d937fca19c14c37f08459d027fa65831f1f03b51154fa073c842e97e8bbf1": {
+      "id": "collaboration",
+      "file": "b43d937fca19c14c.mp3",
+      "seconds": 22.29,
+      "worst_chunk_wer": 0.105,
+      "passed_gate": true,
+      "chunks": [
+        {
+          "text": "His documented practice is relevant to brand direction, creator and ambassador programs, live experiences, and founder-directed AI workflow prototyping.",
+          "wer": 0.105,
+          "tries": 1,
+          "heard": "His documented practice is relevant to brand direction, creator and ambassador programs, live experiences and founder directed AI workflow prototyping."
+        },
+        {
+          "text": "For a useful introduction, share the audience, business problem, desired result, timing and budget. Scope, availability and commercial terms must be agreed with Erfan directly.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "For a useful introduction, share the audience, business problem, desired result, timing and budget.  Scope, availability and commercial terms must be agreed with Erfan directly."
+        }
+      ]
+    },
+    "73768f7f768da52d4f4fbf63919e34cc2df898cd940875ed55b433d7ef2bfedc": {
+      "id": "contact",
+      "file": null,
+      "seconds": 22.05,
+      "worst_chunk_wer": 0.333,
+      "passed_gate": false,
+      "chunks": [
+        {
+          "text": "You can contact Erfan at erfan dot uddin at outlook dot com or find his professional profile at linkedin dot com, slash in, slash dash erfan uddin.",
+          "wer": 0.333,
+          "tries": 2,
+          "heard": "You can contact Erfan at Erfan.Uddin at Outlook.com or find his professional profile at LinkedIn.com  slash in slash dash Erfan Uddin."
+        },
+        {
+          "text": "Share the audience, business problem, desired outcome and timing for a useful introduction. Erfan handles availability, scope and commercial terms directly.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "Share the audience, business problem, desired outcome, and timing for a useful introduction.  Erfan handles availability, scope, and commercial terms directly."
+        }
+      ]
+    },
+    "67fde677d619eee60ae3558e7cb4aca10ad4adbd4b7ad832e1274656ded71b0f": {
+      "id": "boundaries",
+      "file": "67fde677d619eee6.mp3",
+      "seconds": 20.85,
+      "worst_chunk_wer": 0.0,
+      "passed_gate": true,
+      "chunks": [
+        {
+          "text": "This profile guide is limited to the curated professional information shown here. It does not expose private chats, client or student records, credentials, or internal business state.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "This profile guide is limited to the curated professional information shown here. It does not expose private chats, client or student records, credentials or internal business state."
+        },
+        {
+          "text": "It cannot give consent, sign agreements, approve actions, set prices or represent Erfan in a binding decision.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "It cannot give consent, sign agreements, approve actions, set prices, or represent Erfan in a binding decision."
+        }
+      ]
+    },
+    "b3158446f594360af7f82d56f1d5ed74a0c73b15adc2d25466f67b81dc9fe01d": {
+      "id": "unknown",
+      "file": "b3158446f594360a.mp3",
+      "seconds": 16.77,
+      "worst_chunk_wer": 0.0,
+      "passed_gate": true,
+      "chunks": [
+        {
+          "text": "This curated profile does not establish that detail. I can discuss Erfan’s brand strategy, live experiences, creator communities and AI-assisted work.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "This curated profile does not establish that detail. I can discuss Erfan's brand strategy,  live experiences, creator communities and AI-assisted work."
+        },
+        {
+          "text": "For current availability or anything beyond this profile, contact Erfan directly.",
+          "wer": 0.0,
+          "tries": 1,
+          "heard": "for current availability or anything beyond this profile contact Erfan directly."
+        }
+      ]
+    }
+  }
+}

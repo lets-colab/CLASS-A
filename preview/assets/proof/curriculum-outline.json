@@ -1,0 +1,141 @@
+{
+  "title": "CLASS[Λ] curriculum design - portfolio outline",
+  "artifact_type": "CURRICULUM_DESIGN",
+  "source_document_date": "2026-10-22",
+  "publication_scope": "Public portfolio summary of the curriculum design map supplied for this Site recovery",
+  "outcome_state": "DESIGN_ARTIFACT_NOT_DELIVERY_OR_LEARNER_RESULTS",
+  "studios": [
+    {
+      "name": "AI Driver",
+      "classes": "01-04"
+    },
+    {
+      "name": "AI Builder",
+      "classes": "05-08"
+    },
+    {
+      "name": "AI Creator",
+      "classes": "09-12"
+    },
+    {
+      "name": "AI Operator",
+      "classes": "13-15"
+    },
+    {
+      "name": "AI Founder",
+      "classes": "16-20"
+    }
+  ],
+  "classes": [
+    {
+      "number": 1,
+      "studio": "AI Driver",
+      "title": "Meet Your AI Team"
+    },
+    {
+      "number": 2,
+      "studio": "AI Driver",
+      "title": "Talk to AI Clearly"
+    },
+    {
+      "number": 3,
+      "studio": "AI Driver",
+      "title": "Build Your AI Self"
+    },
+    {
+      "number": 4,
+      "studio": "AI Driver",
+      "title": "ChatGPT + Claude + The Truth Test"
+    },
+    {
+      "number": 5,
+      "studio": "AI Builder",
+      "title": "Build Your Second Brain / JARVIS"
+    },
+    {
+      "number": 6,
+      "studio": "AI Builder",
+      "title": "Research Like a Detective"
+    },
+    {
+      "number": 7,
+      "studio": "AI Builder",
+      "title": "Codex: Build Without Waiting for a Developer"
+    },
+    {
+      "number": 8,
+      "studio": "AI Builder",
+      "title": "Claude Code: Work on a Real Project"
+    },
+    {
+      "number": 9,
+      "studio": "AI Creator",
+      "title": "Design: Make Things Easy to Understand"
+    },
+    {
+      "number": 10,
+      "studio": "AI Creator",
+      "title": "Build a Website / MVP"
+    },
+    {
+      "number": 11,
+      "studio": "AI Creator",
+      "title": "Content + Attention Psychology"
+    },
+    {
+      "number": 12,
+      "studio": "AI Creator",
+      "title": "Brand + Story + Digital Presence"
+    },
+    {
+      "number": 13,
+      "studio": "AI Operator",
+      "title": "Build the Growth Engine"
+    },
+    {
+      "number": 14,
+      "studio": "AI Operator",
+      "title": "Sales + CRM"
+    },
+    {
+      "number": 15,
+      "studio": "AI Operator",
+      "title": "Build Your AI Workforce"
+    },
+    {
+      "number": 16,
+      "studio": "AI Founder",
+      "title": "CO.LAB GATE 1: SELECT"
+    },
+    {
+      "number": 17,
+      "studio": "AI Founder",
+      "title": "CO.LAB GATE 2: VALIDATE"
+    },
+    {
+      "number": 18,
+      "studio": "AI Founder",
+      "title": "CO.LAB GATE 3: DESIGN"
+    },
+    {
+      "number": 19,
+      "studio": "AI Founder",
+      "title": "CO.LAB GATE 4: AUTOMATE"
+    },
+    {
+      "number": 20,
+      "studio": "AI Founder",
+      "title": "CO.LAB GATE 5: LAUNCH + FOUNDER SIMULATION + DEMO DAY"
+    }
+  ],
+  "historical_design_output_examples": {
+    "description": "Examples retained from the earlier portfolio design summary; these are intended artifacts, not evidence of delivery or measured outcomes, and are not mapped to the revised stages.",
+    "examples": [
+      "Personal AI profile and repeatable workflow",
+      "Content series",
+      "Brand kit and landing page",
+      "Campaign test",
+      "Venture brief"
+    ]
+  }
+}

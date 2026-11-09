@@ -1,0 +1,52 @@
+TAP version 13
+# Subtest: Visitor questions reach the relevant source without a fake result
+ok 1 - Visitor questions reach the relevant source without a fake result
+  ---
+  duration_ms: 6.507386
+  type: 'test'
+  ...
+# Subtest: Missing business results and private context stay outside the profile
+ok 2 - Missing business results and private context stay outside the profile
+  ---
+  duration_ms: 0.579422
+  type: 'test'
+  ...
+# Subtest: Public payload excludes private provenance, phone conflicts and credentials
+ok 3 - Public payload excludes private provenance, phone conflicts and credentials
+  ---
+  duration_ms: 0.468037
+  type: 'test'
+  ...
+# Subtest: AI can select existing profile text but cannot publish invented claims
+ok 4 - AI can select existing profile text but cannot publish invented claims
+  ---
+  duration_ms: 0.493017
+  type: 'test'
+  ...
+# Subtest: Proof of work routes to inspectable artifacts without inventing client outcomes
+ok 5 - Proof of work routes to inspectable artifacts without inventing client outcomes
+  ---
+  duration_ms: 0.579687
+  type: 'test'
+  ...
+# Subtest: Curriculum proof preserves its design state and complete source outline
+ok 6 - Curriculum proof preserves its design state and complete source outline
+  ---
+  duration_ms: 1.731437
+  type: 'test'
+  ...
+# Subtest: Connection questions cannot mistake the public guide for the actual second brain
+ok 7 - Connection questions cannot mistake the public guide for the actual second brain
+  ---
+  duration_ms: 0.414783
+  type: 'test'
+  ...
+1..7
+# tests 7
+# suites 0
+# pass 7
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 128.486346
