@@ -66,3 +66,4 @@
 @keyframes voice-holo-scan{from{translate:0 0}to{translate:0 8px}}
 @media (max-width:640px){.voice-holo{--holo-w:210px;margin:0 auto}}
 @media (prefers-reduced-motion:reduce){.voice-holo-figure,.voice-holo-scan::before{animation:none}}
+.voice-controls [hidden]{display:none}
